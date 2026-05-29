@@ -41,7 +41,7 @@
           "custom/bluetooth",
           "custom/clipboard",
           "battery",
-          "custom/swaync",
+        //   "custom/swaync",
           "custom/closebracket",
     ],
 
